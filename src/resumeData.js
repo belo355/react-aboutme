@@ -79,12 +79,7 @@ let resumeData = {
       }
     ],
     "portfolio":[
-      // {
-      //   "name":"project1",
-      //   "description":"mobileapp",
-      //   "imgurl":"images/portfolio/phone.jpg"
-      // },
-     
+    
     ],
     "testimonials":[
       {
