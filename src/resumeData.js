@@ -72,6 +72,9 @@ let resumeData = {
         "skillname":"JAVA"
       },
       {
+        "skillname":"DevOps"
+      }, 
+      {
         "skillname":"JAVASCRIPT"
       },
       {
