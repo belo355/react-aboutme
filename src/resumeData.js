@@ -62,7 +62,7 @@ let resumeData = {
         "CompanyName":"Santander Tecnologia",
         "specialization":"Developer SR",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2012",
+        "YearOfLeaving":"2012 - 2020",
         "Achievements":"System Team - DevOps, Scrum Master, Developer Sr"
       }
     ],
